@@ -40,6 +40,13 @@ pip install -r requirements.txt
 ```
 python main.py
 ```
+**PS** Из-за размера моделей и датасета я не смог записать их в репозиторий, поэтому необходимо создать папки и поместить в них изображения из https://www.kaggle.com/datasets/emmarex/plantdisease:
+```
+models/
+data/Tomato_healthy/
+data/Potato_healthy/
+data/Pepper_healthy/
+```
 
 ## Описание наборов данных
 
